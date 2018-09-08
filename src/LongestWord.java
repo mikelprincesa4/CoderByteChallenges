@@ -24,6 +24,5 @@ class Main {
     // keep this function call here     
     Scanner s = new Scanner(System.in);
     System.out.print(LongestWord(s.nextLine())); 
-  }   
-  
+  }    
 }
