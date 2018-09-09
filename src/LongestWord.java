@@ -17,7 +17,6 @@ class Main {
             largestString = words[i];
         }
     }     
-  
     return largestString;   
   } 
   
